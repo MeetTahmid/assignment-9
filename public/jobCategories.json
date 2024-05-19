@@ -1,0 +1,58 @@
+[
+    {
+      "employer": "Tech Innovations Inc.",
+      "job_title": "Web Designer",
+      "posting_date": "2024-05-01",
+      "deadline": "2024-05-15",
+      "salary_range": "$80,000 - $100,000",
+      "applicants": 35,
+      "view_details_button": "https://example.com/software-engineer-details"
+    },
+    {
+      "id": 2,
+      "employer": "Marketing Solutions Co.",
+      "job_title": "Web Designer",
+      "posting_date": "2024-04-25",
+      "deadline": "2024-05-20",
+      "salary_range": "$50,000 - $70,000",
+      "applicants": 28,
+      "view_details_button": "https://example.com/digital-marketing-specialist-details"
+    },
+    {
+      "id": 3,
+      "employer": "Finance Group LLC",
+      "job_title": "Web Designer",
+      "posting_date": "2024-05-02",
+      "deadline": "2024-05-18",
+      "salary_range": "$60,000 - $80,000",
+      "applicants": 20,
+      "view_details_button": "https://example.com/financial-analyst-details"
+    },
+    {
+      "employer": "Healthcare Innovations Corp.",
+      "job_title": "Web Designer",
+      "posting_date": "2024-04-28",
+      "deadline": "2024-05-12",
+      "salary_range": "$40,000 - $50,000",
+      "applicants": 15,
+      "view_details_button": "https://example.com/medical-research-assistant-details"
+    },
+    {
+      "employer": "Design Solutions Agency",
+      "job_title": "Web Designer",
+      "posting_date": "2024-05-03",
+      "deadline": "2024-05-17",
+      "salary_range": "$45,000 - $60,000",
+      "applicants": 25,
+      "view_details_button": "https://example.com/graphic-designer-details"
+    },
+    {
+      "employer": "Education Plus Academy",
+      "job_title": "Web Designer",
+      "posting_date": "2024-04-29",
+      "deadline": "2024-05-14",
+      "salary_range": "$55,000 - $70,000",
+      "applicants": 30,
+      "view_details_button": "https://example.com/mathematics-teacher-details"
+    }
+  ]

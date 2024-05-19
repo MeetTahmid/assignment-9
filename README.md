@@ -1,6 +1,8 @@
-Assignment Categorie 0003
-
-1. Farmer Motion in All Section 
+1. AOS ADDED
 2. Responsive All Section
-3. user friendly design
+3. UNIQUE DESIGN
+4. PROFILE ROUTE
+5. LOGIN AND REGISTER DESIGN
 
+
+Live Link: 
